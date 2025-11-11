@@ -1,0 +1,5 @@
+Default	True	2.0	3
+GPIO	False	2.0	3
+RF	True	2.0	3
+USB	False	2.0	3
+False	True	False
